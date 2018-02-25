@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		{% include head.html %}
+    </head>
+    
+	<body>
+		<section class="page-header">
+		{% include header.html urls=site.data.header_buttons %}
+		</section>
+		
+		<section class="main-content">
+			{{ content }}
+
+			<footer class="site-footer">
+				{% include footer.html %}
+			</footer>
+		</section>
+
+	</body>
+</html>

@@ -1,0 +1,8 @@
+
+<div class="links">
+</div>
+{% if site.github.is_project_page %}
+    {% for url in include.urls%}
+            <a href="{{url.addres}}" class="btn">{{url.name }}</a>
+    {% endfor %}
+{% endif %}

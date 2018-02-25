@@ -1,0 +1,14 @@
+- name: О школе
+  addres: 
+
+- name: Учебные материалы
+  addres: materials
+
+- name: Домашняя работа
+  addres: 
+
+- name: Туториалы
+  addres: https://github.com/gmorgachev/testpages/wiki
+
+- name: Интересное
+  addres: interestings
