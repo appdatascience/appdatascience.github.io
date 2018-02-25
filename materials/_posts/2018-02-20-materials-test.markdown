@@ -18,4 +18,4 @@ print_hi('Tom')
 {% include youtubePlayer.html id=page.youtubeId %}
 
  # Загрузка файлов
- ![My helpful screenshot]({{ /assets/notebooks/Untitled.ipynb }})
+ [My helpful screenshot](/../../assets/notebooks/Untitled.ipynb)
