@@ -9,4 +9,4 @@ categories: interesting
 -----
 Тут везде надо писать в **markdown**
 
-[Cheetlist](htttps://www.github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Cheetlist](https://www.github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
