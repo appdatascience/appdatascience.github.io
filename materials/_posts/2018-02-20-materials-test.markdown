@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: 
 title:  "Тестовый пост с материалами"
 date:   2018-02-20 22:29:55 +0300
 categories: materials
@@ -18,4 +18,4 @@ print_hi('Tom')
 {% include youtubePlayer.html id=page.youtubeId %}
 
  # Загрузка файлов
- [My helpful screenshot](/../../assets/notebooks/Untitled.ipynb)
+ [My helpful screenshot](../../assets/notebooks/Untitled.ipynb)

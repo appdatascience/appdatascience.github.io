@@ -2,13 +2,13 @@
   addres: index.html
 
 - name: Учебные материалы
-  addres: materials
+  addres: materials.html
 
-- name: Домашняя работа
+- name: Задание
   addres: 
 
 - name: Туториалы
   addres: https://github.com/appdatascience/appdatascience.github.io/wiki/
 
 - name: Интересное
-  addres: interestings
+  addres: interestings.html
