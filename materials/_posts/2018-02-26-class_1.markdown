@@ -6,11 +6,11 @@ categories: materials
 ---
 
 ## Семинар 1. Введение в анализ данных.
-Ведёт: Зухба Анастасия
+**Ведёт:** Зухба Анастасия
 
 **Конспект и материалы:**
 - [Инструкция по установке Python](../../assets/notebooks/Untitled.ipynb)
 - Различия между версиями Python
-- [Простейшие команды и операции в Python](../../assets/notebooks/First_steps_in_Python.ipynb)
+- [Простейшие команды и операции в Python](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/First_steps_in_Python.ipynb)
 
 **Дополнительные материалы:**
