@@ -1,0 +1,15 @@
+---
+layout: 
+title:  "Семинар 1"
+date:   2018-02-26
+categories: materials 
+---
+
+**Ведёт:** Зухба Анастасия
+
+**Конспект и материалы:**
+- [Инструкция по установке Python](../../assets/notebooks/Untitled.ipynb)
+- Различия между версиями Python
+- [Простейшие команды и операции в Python](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/First_steps_in_Python.ipynb)
+
+**Дополнительные материалы:**

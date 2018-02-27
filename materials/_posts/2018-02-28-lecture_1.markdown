@@ -1,0 +1,18 @@
+---
+layout: 
+title:  "Лекция 1. Введение в анализ данных."
+date:   2018-02-28
+categories: materials 
+youtubeId: qLBkB4sMztk
+---
+
+
+**Читает:** Константин Вячеславович Воронцов
+
+![alt text](https://github.com/appdatascience/appdatascience.github.io/blob/master/materials/_posts/images/Vorontsov.png "Logo Title Text 1")
+*Доктор физико-математических наук, доцент кафедры математических методов прогнозирования факультета ВМиК МГУ, преподаватель Школы анализа данных Яндекса, профессор Высшей школы экономики.*
+
+**Конспект:**
+
+**Видео лекции:**
+{% include youtubePlayer.html id=page.youtubeId %}
