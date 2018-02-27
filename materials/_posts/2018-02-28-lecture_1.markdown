@@ -8,7 +8,7 @@ youtubeId: qLBkB4sMztk
 
 
 **Читает:** Константин Вячеславович Воронцов
-![alt text][https://github.com/appdatascience/appdatascience.github.io/blob/master/materials/_posts/images/Vorontsov.png]
+![alt text](https://github.com/appdatascience/appdatascience.github.io/blob/master/materials/_posts/images/Vorontsov.png)
 *Доктор физико-математических наук, доцент кафедры математических методов прогнозирования факультета ВМиК МГУ, преподаватель Школы анализа данных Яндекса, профессор Высшей школы экономики.*
 
 **Конспект:**
