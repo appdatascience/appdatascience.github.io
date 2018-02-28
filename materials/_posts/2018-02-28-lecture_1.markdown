@@ -14,7 +14,7 @@ youtubeId: qLBkB4sMztk
 профессор кафедры «Интеллектуальные системы» ФУПМ МФТИ,
 преподаватель Школы анализа данных Яндекс.*
 
-<p style="clear: both;">**Конспект:**</p>
+<p style="clear: both;"> <b> Конспект: </b> </p>
 
 **Видео лекции:**
 {% include youtubePlayer.html id=page.youtubeId %}
