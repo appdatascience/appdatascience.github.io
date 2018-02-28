@@ -58,9 +58,9 @@ a {
   position: relative;
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.699);
-  background-color: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.315);
+  color: rgba(255, 255, 255, 0.829);
+  background-color: rgba(255, 255, 255, 0.212);
+  border-color: rgba(255, 255, 255, 0.589);
   border-style: solid;
   border-width: 2px;
   border-radius: 0.6rem;
@@ -226,7 +226,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: #114c99; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
