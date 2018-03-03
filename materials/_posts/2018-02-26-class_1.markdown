@@ -11,3 +11,5 @@ categories: materials
 **Конспект и материалы:**
 - [Инструкция по установке Python](../../assets/notebooks/Untitled.ipynb)
 - [Простейшие команды и операции в Python](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/1sem.ipynb)
+
+[**Пройдите опрос и мы сделаем ещё лучше**](https://goo.gl/forms/wdAaVKeDcWWk5uux1)
