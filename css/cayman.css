@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box; }
+html { overflow:  hidden; }
 
 body {
   padding: 0;
@@ -86,7 +87,7 @@ a {
   @media screen and (max-width: 42em) {
     .btn {
       display: inline-block;
-      width: 80%;
+      width: 90%;
       position: center;
       padding-bottom: 1vh;
       padding: 0.75rem;
@@ -109,14 +110,14 @@ a {
 @media screen and (min-width: 82em) {
   .links {
     position: relative;
-    padding-bottom: 22%;
+    padding-bottom: 15%;
     padding-top: 0%;
   }
   .page-header {
     padding: 3rem 4rem;  
     background-image: url("../DesktopHeader1-01.png");
     background-position: top;
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
   }}  
 
