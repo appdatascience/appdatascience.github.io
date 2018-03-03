@@ -1,5 +1,5 @@
 ---
-layout: 1
+layout: 
 title:  "Лекция 1"
 categories: delayed 
 date:   2018-02-26 1
