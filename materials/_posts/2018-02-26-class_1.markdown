@@ -12,4 +12,4 @@ categories: materials
 - [Инструкция по установке Python (и не только:))](http://profitraders.com/Python/PythonIntro.html)
 - [Простейшие команды и операции в Python](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/1sem.ipynb)
 
-[**Пройдите опрос и мы сделаем ещё лучше**](https://goo.gl/forms/wdAaVKeDcWWk5uux1)
+[**Пройдите опрос, и мы станем ещё лучше!**](https://goo.gl/forms/wdAaVKeDcWWk5uux1)
