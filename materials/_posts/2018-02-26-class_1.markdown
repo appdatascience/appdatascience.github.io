@@ -13,6 +13,7 @@ categories: materials
 - Простейшие команды и операции в Python:
 	- [Ссылка для скачивания](../../assets/notebooks/1sem.ipynb)
 	- [Открыть на githab](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/1sem.ipynb)
+
 **Домашнее задание:**
 1. Установить Anaconda
 2. Открыть Jupyter Notebook
