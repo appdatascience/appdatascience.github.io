@@ -12,11 +12,11 @@ categories: materials
 - [Инструкция по установке Python (и не только:))](http://profitraders.com/Python/PythonIntro.html)
 - Простейшие команды и операции в Python:
 	- [Ссылка для скачивания](../../assets/notebooks/1sem.ipynb)
-	- [Открыть на githab](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/1sem.ipynb)
+	- [Открыть на github](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/1sem.ipynb)
 
 **Домашнее задание:**
 1. Установить Anaconda
-2. Открыть Jupyter Notebook
+2. Открыть Jupyter Noteboo
 3. Изучить семинар 1
 4. Проверить, что все команды запускаются
 
