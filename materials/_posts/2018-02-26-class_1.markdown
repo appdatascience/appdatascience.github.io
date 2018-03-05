@@ -16,7 +16,7 @@ categories: materials
 
 **Домашнее задание:**
 1. Установить Anaconda
-2. Открыть Jupyter Noteboo
+2. Открыть Jupyter Notebook
 3. Изучить семинар 1
 4. Проверить, что все команды запускаются
 
