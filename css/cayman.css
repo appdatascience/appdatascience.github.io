@@ -326,19 +326,46 @@ a {
     background-color: #eff0f1;
     border: 0; }
 
+
+
+.footer-logo{
+  position: relative;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.footer-logo img{
+  height: 4.3rem;
+}
+
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #eff0f1;
+  align-content: center;
+  text-align: center;  
+  height: 100px;
+}
   @media screen and (min-width: 64em) {
     .site-footer {
       font-size: 1rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .site-footer {
-      font-size: 1rem; } }
+      font-size: 1rem; }
+     }
   @media screen and (max-width: 42em) {
     .site-footer {
-      font-size: 0.9rem; } }
+      font-size: 0.9rem; }
+    .footer-logo{
+      display: inline-block;
+      width: 90%;
+      position: center;
+      font-size: 0.8rem; 
+    }  
+    .footer-logo img{
+      width: 60%;
+      height: auto;
+    } }
 
 .site-footer-owner {
   display: block;
