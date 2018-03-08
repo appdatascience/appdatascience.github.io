@@ -1,8 +1,22 @@
 title: Applied Data Science
 theme: jekyll-theme-cayman
 
+author:
+  name:       "dlphystech@gmail.com"
+  url:        mailto:dcam.mipt@gmail.com 
+vk:
+  name:       vk.com/applieddatascience
+  url:        https://vk.com/applieddatascience 
+tg:
+  name:       Applied Data Science
+  url:        https://goo.gl/Co1hmP
+
+
 
 youtube:
   rel: 0
   modestbranding: 1
   iv_load_policy: 3
+
+
+
