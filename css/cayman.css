@@ -326,16 +326,17 @@ a {
     background-color: #eff0f1;
     border: 0; }
 
-
-
+    
 .footer-logo{
   position: relative;
   display: inline-block;
-  margin-bottom: 1rem;
 }
 
+.left{
+  margin-left: 6vh;
+}
 .footer-logo img{
-  height: 4.3rem;
+  height: 3.3rem;
 }
 
 .site-footer {
