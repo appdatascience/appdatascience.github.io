@@ -366,7 +366,11 @@ a {
     .footer-logo img{
       width: 60%;
       height: auto;
-    } }
+      align-self: center;
+    } 
+    .left-logo{
+      margin-left: 0vh;
+    }}
 
 .site-footer-owner {
   display: block;
