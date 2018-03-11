@@ -12,7 +12,7 @@ categories: materials
 - Ноутбук в семинара:
 	- [Ссылка для скачивания](../../assets/notebooks/ekg1sem.ipynb)
 	- [Открыть на github](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/ekg1sem.ipynb)
-- [Данные](../../assets/notebooks/ekg.zip)
+- [Данные](../../assets/data/ekg.zip)
 
 **Домашнее задание:**
 - На основе равномерного распределения сгенерировать выборку, представляющую собой синий круг внутри красного квадрата.
