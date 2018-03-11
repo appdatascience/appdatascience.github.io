@@ -9,7 +9,7 @@ categories: materials
 **Ведёт:** Анастасия Зухба
 
 **Конспект и материалы:**
-- Ноутбук в семинара:
+- Jupyter Notebook с семинара:
 	- [Ссылка для скачивания](../../assets/notebooks/ekg1sem.ipynb)
 	- [Открыть на github](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/ekg1sem.ipynb)
 - [Данные](../../assets/data/ekg.zip)
