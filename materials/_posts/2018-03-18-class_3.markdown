@@ -1,0 +1,13 @@
+---
+layout: 
+title:  "Семинар 3"
+date:   2018-03-18
+categories: materials 
+youtubeId: cjVzbVdbeRo
+---
+### Классификация.
+
+**Ведёт:** Анастасия Зухба
+
+**Все материалы:**
+- [Скачать](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/3sem.zip). *Не забывайте, что файлы нужно будет распаковать*
