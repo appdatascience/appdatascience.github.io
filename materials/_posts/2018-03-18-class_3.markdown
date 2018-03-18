@@ -7,7 +7,7 @@ youtubeId: cjVzbVdbeRo
 ---
 ### Классификация.
 
-**Ведёт:** Павел Темирчев
+**Ведeт:** Павел Темирчев, Анастасия Зухба
 
 **Все материалы:**
 - [Скачать](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/3sem.zip). *Не забывайте, что файлы нужно будет распаковать*
