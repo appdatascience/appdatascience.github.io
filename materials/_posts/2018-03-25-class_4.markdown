@@ -1,0 +1,16 @@
+---
+layout: 
+title:  "Семинар 4"
+date:   2018-03-25
+categories: materials 
+youtubeId: cjVzbVdbeRo
+---
+### Регрессия
+
+**Ведёт:** Анастасия Зухба
+
+**Конспект и материалы:**
+- Jupyter Notebook с семинара:
+	- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/reg1.zip)
+	- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/reg1.ipynb)
+	- [Скачать данные отдельно](../../assets/data/consumption_train.csv)
