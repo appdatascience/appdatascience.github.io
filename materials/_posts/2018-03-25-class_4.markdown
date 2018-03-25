@@ -10,7 +10,6 @@ youtubeId: cjVzbVdbeRo
 **Ведёт:** Анастасия Зухба
 
 **Конспект и материалы:**
-- Jupyter Notebook с семинара:
-	- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/reg1.zip)
-	- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/reg1.ipynb)
-	- [Скачать данные отдельно](../../assets/data/consumption_train.csv)
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/reg1.zip)
+- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/reg1.ipynb)
+- [Скачать данные отдельно](../../assets/data/consumption_train.csv)
