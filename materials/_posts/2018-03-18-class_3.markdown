@@ -3,7 +3,7 @@ layout:
 title:  "Семинар 3"
 date:   2018-03-18
 categories: materials 
-youtubeId: cjVzbVdbeRo
+youtubeId: Y3QlgsFTcrc
 ---
 ### Классификация.
 
@@ -20,3 +20,6 @@ youtubeId: cjVzbVdbeRo
 - Отобрать признаки.
 - Выбрать любые два метода классификации.
 - Сравнить их работу на полученной выборке с выбранными признаками.
+
+**Видео:**
+{% include youtubePlayer.html id=page.youtubeId %}

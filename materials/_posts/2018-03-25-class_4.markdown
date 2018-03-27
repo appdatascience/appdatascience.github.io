@@ -3,7 +3,7 @@ layout:
 title:  "Семинар 4"
 date:   2018-03-25
 categories: materials 
-youtubeId: Y3QlgsFTcrc
+youtubeId: oMA4dhG0X-I
 ---
 ### Регрессия
 
