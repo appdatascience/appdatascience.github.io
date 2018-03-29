@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "Семинар 3"
+title:  "Семинары 3-4"
 date:   2018-03-18
 categories: materials 
 youtubeId: Y3QlgsFTcrc
