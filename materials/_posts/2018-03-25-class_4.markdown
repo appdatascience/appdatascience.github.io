@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "Семинар 5"
+title:  "Семинар 4"
 date:   2018-03-25
 categories: materials 
 youtubeId: oMA4dhG0X-I
