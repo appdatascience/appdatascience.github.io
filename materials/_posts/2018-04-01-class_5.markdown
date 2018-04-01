@@ -1,0 +1,15 @@
+---
+layout: 
+title:  "Семинар 5"
+date:   2018-04-01
+categories: materials 
+youtubeId: oMA4dhG0X-I
+---
+### Регрессия
+
+**Ведёт:** Анастасия Белозёрова
+
+**Конспект и материалы:**
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/reg2.zip)
+- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/reg2.ipynb)
+
