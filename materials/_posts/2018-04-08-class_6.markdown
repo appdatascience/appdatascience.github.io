@@ -1,0 +1,14 @@
+---
+layout: 
+title:  "Семинар 6"
+date:   2018-04-08
+categories: materials 
+youtubeId: oMA4dhG0X-I
+---
+
+**Ведёт:** Анастасия Зухба
+
+**Конспект и материалы:**
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/multi.zip)
+- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/multi.ipynb)
+
