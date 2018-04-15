@@ -1,0 +1,15 @@
+---
+layout: 
+title:  "Семинар 7"
+date:   2018-04-15
+categories: materials 
+youtubeId: 86AZvW_m9xw
+---
+
+### Обработка естественного языка
+
+**Ведёт:** Мария Селезнёва
+
+**Конспект и материалы:**
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/NLP.zip)
+- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/NLP.ipynb)
