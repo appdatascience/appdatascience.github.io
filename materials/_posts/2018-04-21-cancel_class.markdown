@@ -10,4 +10,5 @@ youtubeId: pGaz7CQj_7A
 
  Приглашаем вас приехать в МФТИ на [День Открытых Дверей](https://mipt.ru/news/na_fiztekhe_sostoitsya_den_otkrytykh_dverey).
 
-Для ребят, которые не смогут приехать, была организована трансляция: {% include youtubePlayer.html id=page.youtubeId %}
+Для ребят, которые не смогут приехать, была организована трансляция: 
+{% include youtubePlayer.html id=page.youtubeId %}
