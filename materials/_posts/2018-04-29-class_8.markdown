@@ -1,0 +1,15 @@
+---
+layout: 
+title:  "Семинар 8"
+date:   2018-04-29
+categories: materials 
+youtubeId: 86AZvW_m9xw
+---
+
+### Анализ тональности текста
+
+**Ведёт:** Анастасия Зухба
+
+**Конспект и материалы:**
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/tem-sentiment-analysis.zip)
+- [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/sentiment.ipynb)
