@@ -11,5 +11,5 @@ youtubeId: 86AZvW_m9xw
 **Ведёт:** Анастасия Зухба
 
 **Конспект и материалы:**
-- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/tem-sentiment-analysis.zip)
+- [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/sem-sentiment-analysis.zip)
 - [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/sentiment.ipynb)
