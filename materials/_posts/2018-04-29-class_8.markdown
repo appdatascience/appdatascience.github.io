@@ -3,7 +3,7 @@ layout:
 title:  "Семинар 8"
 date:   2018-04-29
 categories: materials 
-youtubeId: 86AZvW_m9xw
+youtubeId: Pmz1sAbCL-k
 ---
 
 ### Анализ тональности текста
@@ -13,3 +13,6 @@ youtubeId: 86AZvW_m9xw
 **Конспект и материалы:**
 - [Ссылка для скачивания архива с ноутбуком и данными](../../assets/notebooks/sem-sentiment-analysis.zip)
 - [Открыть на github ноутбук с семинара](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/sentiment.ipynb)
+
+**Видео:**
+{% include youtubePlayer.html id=page.youtubeId %}
