@@ -1,0 +1,12 @@
+---
+layout: 
+title:  "Лучшие из лучших"
+date:   2018-05-20
+categories: materials 
+youtubeId: Pmz1sAbCL-k
+---
+
+Ещё раз спешим поздравить ребят, которые лучше всех проявили себя на нашем кружке! Продолжайте в том же духе и покаряйте новые вершины!
+
+Inline-style: 
+![alt text](https://github.com/appdatascience/appdatascience.github.io/tree/master/materials/_posts/eaHJmmVqOiI.jpg "Best of the best")
