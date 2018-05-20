@@ -6,6 +6,6 @@ categories: materials
 youtubeId: Pmz1sAbCL-k
 ---
 
-Ещё раз спешим поздравить ребят, которые лучше всех проявили себя на нашем кружке! Продолжайте в том же духе и покаряйте новые вершины!
+Ещё раз спешим поздравить ребят, которые лучше всех проявили себя на нашем кружке! *Продолжайте в том же духе и покаряйте новые вершины!*
 
-<img src="\eaHJmmVqOiI.jpg" alt="Best of the best">
+<img src="https://raw.githubusercontent.com/appdatascience/appdatascience.github.io/master/materials/_posts/eaHJmmVqOiI.jpg" alt="Best of the best">
