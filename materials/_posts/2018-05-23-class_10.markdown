@@ -8,4 +8,4 @@ youtubeId: Pmz1sAbCL-k
 
 Ещё раз спешим поздравить ребят, которые лучше всех проявили себя на нашем кружке! Продолжайте в том же духе и покаряйте новые вершины!
 
-![alt text](eaHJmmVqOiI.jpg "Best of the best")
+<img src="eaHJmmVqOiI.jpg" alt="Best of the best">
