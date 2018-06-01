@@ -1,7 +1,7 @@
 - name: О кружке
   addres: index.html
 
-- name: Учебные материалы
+- name: Новости
   addres: materials.html
 
 - name: Задания
