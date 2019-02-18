@@ -17,4 +17,4 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
-<a href="https://goo.gl/forms/EGx3EoWvk4WNufL22" class="bigbtn">Форма регистрации</a>
+<a href="https://goo.gl/forms/EGx3EoWvk4WNufL22" class="bigbtn">Регистрация</a>
