@@ -4,8 +4,8 @@
 - name: Новости
   addres: materials.html
 
-- name: Задания
-  addres: http://anytask.org/course/326
+#- name: Задания
+#  addres: http://anytask.org/course/326
 
 - name: Туториалы
   addres: https://github.com/appdatascience/appdatascience.github.io/wiki/
