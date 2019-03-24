@@ -1,0 +1,25 @@
+---
+layout: 
+title:  "Семинар 2"
+date:   2019-03-23
+categories: materials 
+youtubeId: cjVzbVdbeRo
+---
+### Линейные модели.
+
+**Ведёт:** Артём Грязев
+
+**Конспект и материалы:**
+- [Презентация](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/presentations/Lineynye_modeli.pptx)
+- Jupyter Notebook с семинара:
+	- [Ссылка для скачивания](../../assets/notebooks/Linear_models.ipynb)
+	- [Открыть на github](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/notebooks/Linear_models.ipynb)
+- Данные
+  - [Коты и лемуры](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/data/Cats_and_lemurs.csv)
+  - [Вес и рост](https://github.com/appdatascience/appdatascience.github.io/blob/master/assets/data/weights_heights.csv)
+
+
+**Домашнее задание:**
+Домашнее задание и ноутбук к нему выложены в группе Кружка ВКонтакте.
+
+[**Все пожелания отправляйте в группу!**](https://vk.com/applieddatascience)
